@@ -1,0 +1,7 @@
+# The readable report. Committing this defeats the entire gate.
+source/
+*.plain.html
+dashboard-source.html
+
+# Never let the password reach the repo.
+.env
